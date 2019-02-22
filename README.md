@@ -1,3 +1,4 @@
+cnn_visualization 
 Learning Deep Features for Discriminative Localization
 https://arxiv.org/pdf/1512.04150.pdf
 
@@ -22,6 +23,8 @@ https://arxiv.org/pdf/1705.05598.pdf
 Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach
 https://arxiv.org/pdf/1703.08448.pdf
 
+weakly supervised object detections
+
 C-WSL: Count-guided Weakly Supervised Localization
 https://arxiv.org/pdf/1711.05282.pdf
 
@@ -38,4 +41,7 @@ https://www.ijcai.org/proceedings/2017/0285.pdf
 
 Collaborative Learning for Weakly Supervised Object Detection
 https://www.ijcai.org/proceedings/2018/0135.pdf
+
+Training object class detectors with click supervision
+http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papadopoulos17cvpr.pdf
 

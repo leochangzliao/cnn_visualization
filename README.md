@@ -43,5 +43,7 @@ https://www.ijcai.org/proceedings/2017/0285.pdf
 https://www.ijcai.org/proceedings/2018/0135.pdf
 
 ### Training object class detectors with click supervision
-http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papadopoulos17cvpr.pdf
+http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papadopoulos17cvpr.pdf  
 
+### Seed, Expand, Constrain: Three Principles for Weakly-Supervised Image Segmentation  
+https://arxiv.org/pdf/1603.06098.pdf

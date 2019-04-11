@@ -21,7 +21,10 @@ https://arxiv.org/pdf/1708.06670.pdf
 https://arxiv.org/pdf/1705.05598.pdf
 
 ### Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach
-https://arxiv.org/pdf/1703.08448.pdf
+https://arxiv.org/pdf/1703.08448.pdf  
+
+### Layer-wise Relevance Propagation for Neural Networks with Local Renormalization Layers  
+https://arxiv.org/pdf/1604.00825.pdf
 
 # weakly supervised object detections
 

@@ -49,4 +49,7 @@ https://www.ijcai.org/proceedings/2018/0135.pdf
 http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papadopoulos17cvpr.pdf  
 
 ### Seed, Expand, Constrain: Three Principles for Weakly-Supervised Image Segmentation  
-https://arxiv.org/pdf/1603.06098.pdf
+https://arxiv.org/pdf/1603.06098.pdf  
+
+### Weakly Supervised Instance Segmentation using Class Peak Response  
+https://arxiv.org/pdf/1804.00880.pdf  

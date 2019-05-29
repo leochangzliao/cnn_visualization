@@ -28,6 +28,9 @@ https://arxiv.org/pdf/1604.00825.pdf
 
 ### On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation  
 https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130140&type=printable  
+
+### Mining Objects: Fully Unsupervised Object Discovery and Localization From a Single Image  
+## https://arxiv.org/pdf/1902.09968.pdf  
 # weakly supervised object detections
 
 ### C-WSL: Count-guided Weakly Supervised Localization
